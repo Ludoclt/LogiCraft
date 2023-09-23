@@ -1,0 +1,16 @@
+[
+{
+  "modid": "logicraft",
+  "name": "LogiCraft",
+  "description": "Allows to convert logisim circuits into minecraft redstone build.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ludoclt"],
+  "credits": "Hi.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
